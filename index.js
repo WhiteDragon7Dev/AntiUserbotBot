@@ -91,7 +91,7 @@ bot.on(`new_chat_members`, async ctx => {
                 ctx.reply(ctx.i18n(`creator`));
                 break;
 
-            case `Bad Request: user is an administrator of the chat`:
+            case `Sukame il cazzo: user is an administrator of the chat`:
                 break;
 
             default:
